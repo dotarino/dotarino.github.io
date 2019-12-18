@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Anti-Mage",
+    "attribute": "agility"
+  },
+  {
+    "name": "Arc Warden",
+    "attribute": "agility"
+  },
+  {
+    "name": "Bloodseeker",
+    "attribute": "agility"
+  },
+  {
+    "name": "Bounty Hunter",
+    "attribute": "agility"
+  },
+  {
+    "name": "Broodmother",
+    "attribute": "agility"
+  },
+  {
+    "name": "Clinkz",
+    "attribute": "agility"
+  },
+  {
+    "name": "Drow Ranger",
+    "attribute": "agility"
+  },
+  {
+    "name": "Ember Spirit",
+    "attribute": "agility"
+  },
+  {
+    "name": "Faceless Void",
+    "attribute": "agility"
+  },
+  {
+    "name": "Gyrocopter",
+    "attribute": "agility"
+  },
+  {
+    "name": "Juggernaut",
+    "attribute": "agility"
+  },
+  {
+    "name": "Lone Druid",
+    "attribute": "agility"
+  },
+  {
+    "name": "Luna",
+    "attribute": "agility"
+  },
+  {
+    "name": "Medusa",
+    "attribute": "agility"
+  },
+  {
+    "name": "Meepo",
+    "attribute": "agility"
+  },
+  {
+    "name": "Mirana",
+    "attribute": "agility"
+  },
+  {
+    "name": "Monkey King",
+    "attribute": "agility"
+  },
+  {
+    "name": "Morphling",
+    "attribute": "agility"
+  },
+  {
+    "name": "Naga Siren",
+    "attribute": "agility"
+  },
+  {
+    "name": "Nyx Assassin",
+    "attribute": "agility"
+  },
+  {
+    "name": "Pangolier",
+    "attribute": "agility"
+  },
+  {
+    "name": "Phantom Assassin",
+    "attribute": "agility"
+  },
+  {
+    "name": "Phantom Lancer",
+    "attribute": "agility"
+  },
+  {
+    "name": "Razor",
+    "attribute": "agility"
+  },
+  {
+    "name": "Riki",
+    "attribute": "agility"
+  },
+  {
+    "name": "Shadow Fiend",
+    "attribute": "agility"
+  },
+  {
+    "name": "Slark",
+    "attribute": "agility"
+  },
+  {
+    "name": "Sniper",
+    "attribute": "agility"
+  },
+  {
+    "name": "Spectre",
+    "attribute": "agility"
+  },
+  {
+    "name": "Templar Assassin",
+    "attribute": "agility"
+  },
+  {
+    "name": "Terrorblade",
+    "attribute": "agility"
+  },
+  {
+    "name": "Troll Warlord",
+    "attribute": "agility"
+  },
+  {
+    "name": "Ursa",
+    "attribute": "agility"
+  },
+  {
+    "name": "Vengeful Spirit",
+    "attribute": "agility"
+  },
+  {
+    "name": "Venomancer",
+    "attribute": "agility"
+  },
+  {
+    "name": "Viper",
+    "attribute": "agility"
+  },
+  {
+    "name": "Weaver",
+    "attribute": "agility"
+  }
+]
