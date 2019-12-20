@@ -1,150 +1,187 @@
 [
   {
     "name": "Anti-Mage",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/antimage_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Arc Warden",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Bloodseeker",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/bloodseeker_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Bounty Hunter",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/bounty_hunter_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Broodmother",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/broodmother_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Clinkz",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/clinkz_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Drow Ranger",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/drow_ranger_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Ember Spirit",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/ember_spirit_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Faceless Void",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/faceless_void_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Gyrocopter",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/gyrocopter_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Juggernaut",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/juggernaut_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Lone Druid",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/lone_druid_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Luna",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/luna_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Medusa",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/medusa_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Meepo",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/meepo_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Mirana",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/mirana_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Monkey King",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/monkey_king_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Morphling",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/morphling_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Naga Siren",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/naga_siren_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Nyx Assassin",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/nyx_assassin_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Pangolier",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Phantom Assassin",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/phantom_assassin_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Phantom Lancer",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/phantom_lancer_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Razor",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/razor_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Riki",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/riki_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Shadow Fiend",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/nevermore_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Slark",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/slark_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Sniper",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/sniper_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Spectre",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/spectre_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Templar Assassin",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/templar_assassin_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Terrorblade",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/terrorblade_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Troll Warlord",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/troll_warlord_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Ursa",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/ursa_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Vengeful Spirit",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/vengefulspirit_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Venomancer",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/venomancer_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Viper",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/viper_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Weaver",
-    "attribute": "agility"
+    "attribute": "agility",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/weaver_full.png?v=5578251?v=5578251"
   }
 ]

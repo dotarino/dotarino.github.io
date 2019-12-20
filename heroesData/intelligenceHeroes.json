@@ -1,174 +1,217 @@
 [
   {
     "name": "Ancient Apparition",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/ancient_apparition_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Bane",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/bane_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Batrider",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/batrider_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Chen",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/chen_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Crystal Maiden",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/crystal_maiden_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Dark Seer",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_seer_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Dark Willow",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_willow_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Dazzle",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/dazzle_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Death Prophet",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/death_prophet_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Distruptor",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/disruptor_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Enchantress",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/enchantress_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Enigma",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/enigma_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Grimstroke",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/grimstroke_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Invoker",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/invoker_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Jakiro",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/jakiro_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Keeper of the Light",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/keeper_of_the_light_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Leshrac",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/leshrac_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Lich",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/lich_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Lina",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/lina_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Lion",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/lion_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Nature's Prophet",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/furion_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Necrophos",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/necrolyte_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Ogre Magi",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/ogre_magi_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Oracle",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/oracle_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Outworld Devourer",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/obsidian_destroyer_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Puck",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/puck_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Pugna",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/pugna_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Queen of Pain",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/queenofpain_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Rubick",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/rubick_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Shadow Demon",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/shadow_demon_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Shadow Shaman",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/shadow_shaman_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Silencer",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/silencer_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Skywrath Mage",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/skywrath_mage_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Storm Spirit",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/storm_spirit_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Techies",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Tinker",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/tinker_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Visage",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/visage_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Void Spirit",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/void_spirit_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Warlock",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Windranger",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/windrunner_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Winter Wyvern",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/winter_wyvern_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Witch Doctor",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/witch_doctor_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Zeus",
-    "attribute": "intelligence"
+    "attribute": "intelligence",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/zuus_full.png?v=5578251?v=5578251"
   }
 ]

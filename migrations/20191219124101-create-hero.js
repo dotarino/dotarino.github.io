@@ -14,15 +14,18 @@ module.exports = {
       attribute: {
         type: Sequelize.STRING
       },
+      icon: {
+        type: Sequelize.STRING
+      },
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE,
-        defaultValue: new Date()
+        defaultValue: new Date ()
       },
       updatedAt: {
         allowNull: false,
         type: Sequelize.DATE,
-        defaultValue: new Date()
+        defaultValue: new Date ()
       }
     });
   },

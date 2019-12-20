@@ -1,158 +1,197 @@
 [
   {
     "name": "Abaddon",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/abaddon_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Alchemist",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/alchemist_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Axe",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/axe_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Beastmaster",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/beastmaster_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Brewmaster",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/brewmaster_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Bristleback",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/bristleback_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Centaur Warrunner",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/centaur_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Chaos Knight",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/chaos_knight_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Clockwerk",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/rattletrap_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Doom",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/doom_bringer_full.png?v=5578251?v=5578251"
   },
   {
-    "name": "Dragon Knigth",
-    "attribute": "strength"
+    "name": "Dragon Knight",
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/dragon_knight_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Earth Spirit",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/earth_spirit_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Earthshaker",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/earthshaker_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Elder Titan",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/elder_titan_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Huskar",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/huskar_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Io",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/wisp_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Kunkka",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/kunkka_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Legion Commander",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/legion_commander_full.png?v=5578251?v=5578251"
   },
   {
-    "name": "lifestealer",
-    "attribute": "strength"
+    "name": "Lifestealer",
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/life_stealer_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Lycan",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/lycan_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Magnus",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/magnataur_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Mars",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/mars_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Nigth Stalker",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/night_stalker_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Omniknight",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/omniknight_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Phoenix",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/phoenix_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Pudge",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/pudge_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Sand King",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/sand_king_full.png?v=5578251?v=5578251"
   },
   {
-    "name": "Salrdar",
-    "attribute": "strength"
+    "name": "Slardar",
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/slardar_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Snapfire",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/snapfire_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Spirit Breaker",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/spirit_breaker_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Sven",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/sven_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Tidehunter",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/tidehunter_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Timbersaw",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/shredder_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Tiny",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/tiny_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Treant Protector",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/treant_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Tusk",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/tusk_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Underlord",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Undying",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/undying_full.png?v=5578251?v=5578251"
   },
   {
     "name": "Wraith King",
-    "attribute": "strength"
+    "attribute": "strength",
+    "icon": "http://cdn.dota2.com/apps/dota2/images/heroes/skeleton_king_full.png?v=5578251?v=5578251"
   }
 ]
